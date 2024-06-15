@@ -8,4 +8,5 @@ This includes all the necessary concepts of Dart Programming language which are 
 
 
 ![Dart](https://github.com/zainalvi110/Dart_basics/blob/main/download.jpeg)
-Learning --> Dart October 2021 -- Fall'21
+
+Learning --> Dart june 2024 -- spring'24
